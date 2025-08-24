@@ -1,0 +1,8 @@
+{
+  "dependencies": ["langchain_openai"],
+  "graphs": {
+    "my_graph": "./main.py:agent"
+  },
+  "env": "./.env",
+  "python_version": "3.13"
+}
